@@ -4,6 +4,7 @@ Linking ambient pollution with risk of cancer
 ## What we want to test
 1. Risk of getting lung/skin cancer based on fine particulate matter
 2. Risk of cancer in male vs female
+3. Similarity in risk of cancer based on geographical location
 
 # Risk of getting lung/skin cancer based on fine particulate matter
 
